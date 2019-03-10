@@ -1,0 +1,14 @@
+/Users/mark/Documents/github/todo_core/bin/Debug/netcoreapp2.2/todo_core.deps.json
+/Users/mark/Documents/github/todo_core/bin/Debug/netcoreapp2.2/todo_core.runtimeconfig.json
+/Users/mark/Documents/github/todo_core/bin/Debug/netcoreapp2.2/todo_core.runtimeconfig.dev.json
+/Users/mark/Documents/github/todo_core/bin/Debug/netcoreapp2.2/todo_core.dll
+/Users/mark/Documents/github/todo_core/bin/Debug/netcoreapp2.2/todo_core.pdb
+/Users/mark/Documents/github/todo_core/obj/Debug/netcoreapp2.2/todo_core.csprojAssemblyReference.cache
+/Users/mark/Documents/github/todo_core/obj/Debug/netcoreapp2.2/todo_core.csproj.CoreCompileInputs.cache
+/Users/mark/Documents/github/todo_core/obj/Debug/netcoreapp2.2/todo_core.RazorAssemblyInfo.cache
+/Users/mark/Documents/github/todo_core/obj/Debug/netcoreapp2.2/todo_core.RazorAssemblyInfo.cs
+/Users/mark/Documents/github/todo_core/obj/Debug/netcoreapp2.2/todo_core.AssemblyInfoInputs.cache
+/Users/mark/Documents/github/todo_core/obj/Debug/netcoreapp2.2/todo_core.AssemblyInfo.cs
+/Users/mark/Documents/github/todo_core/obj/Debug/netcoreapp2.2/todo_core.RazorTargetAssemblyInfo.cache
+/Users/mark/Documents/github/todo_core/obj/Debug/netcoreapp2.2/todo_core.dll
+/Users/mark/Documents/github/todo_core/obj/Debug/netcoreapp2.2/todo_core.pdb
